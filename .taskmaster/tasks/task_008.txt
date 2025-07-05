@@ -1,0 +1,19 @@
+# Task ID: 8
+# Title: 상태 관리 구조 설계
+# Status: pending
+# Dependencies: None
+# Priority: medium
+# Description: Svelte 내장 스토어(Stores)를 활용하여 상태 관리 구조를 설계 및 구현한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 8.1. 상태 관리 구조 설계 결과 확인 [pending]
+### Dependencies: None
+### Description: 스토어 연동, 상태 변화 반영 등 정상 동작을 확인한다.
+### Details:
+
+

@@ -1,0 +1,187 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "메인/소개 페이지 구현",
+        "description": "SvelteKit의 사전 렌더링(Prerendering) 기능을 활용하여 정적 메인/소개 페이지를 구현한다. 서비스 소개와 사용법 안내를 포함한다.",
+        "priority": "high",
+        "status": "done",
+        "subtasks": [
+          {
+            "id": 1.1,
+            "title": "메인/소개 페이지 구현 결과 확인",
+            "description": "구현된 메인/소개 페이지가 요구사항(정적 렌더링, 소개/안내 포함 등)에 맞는지 직접 브라우저에서 확인 및 피드백한다.",
+            "priority": "high",
+            "status": "done"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "검사 진행 페이지 구현",
+        "description": "사용자 입력 기반의 자기진단 플로우 UI/UX를 SvelteKit 클라이언트 사이드 렌더링(CSR)으로 구현한다.",
+        "priority": "high",
+        "status": "in-progress",
+        "subtasks": [
+          {
+            "id": 2.1,
+            "title": "검사 진행 페이지 구현 결과 확인",
+            "description": "실제 사용자 플로우, 입력, 상태 관리 등이 정상 동작하는지 시나리오 테스트를 진행한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "결과 표시 페이지 구현",
+        "description": "검사 결과를 시각적으로 보여주는 결과 페이지를 구현한다. Chart.js 또는 LayerCake를 활용한 차트 시각화 포함.",
+        "priority": "high",
+        "status": "in-progress",
+        "subtasks": [
+          {
+            "id": 3.1,
+            "title": "결과 표시 페이지 구현 결과 확인",
+            "description": "차트 시각화, 결과 데이터 표시, 반응형 동작 등을 확인한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "동적 프롬프트 생성 및 분석 지원",
+        "description": "사용자 응답에 따라 동적으로 프롬프트(질문/설명 등)를 생성하고, 분석 로직 및 결과 해석 텍스트를 제공한다.",
+        "priority": "high",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 4.1,
+            "title": "동적 프롬프트/분석 기능 결과 확인",
+            "description": "동적 프롬프트 생성, 해석 텍스트 제공이 정상 동작하는지 확인한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "반응형 디자인 적용",
+        "description": "모바일/데스크탑 등 다양한 해상도에 대응하는 반응형 디자인을 적용한다. Svelte의 스코프 CSS 및 필요시 Tailwind CSS를 활용한다.",
+        "priority": "high",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 5.1,
+            "title": "반응형 디자인 적용 결과 확인",
+            "description": "다양한 해상도(모바일, 태블릿, 데스크탑)에서 UI가 정상적으로 보이는지 확인한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "재시작 기능 구현",
+        "description": "사용자가 언제든지 검사를 처음부터 다시 시작할 수 있는 기능을 구현한다.",
+        "priority": "high",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 6.1,
+            "title": "재시작 기능 구현 결과 확인",
+            "description": "검사 재시작 시 상태 초기화, UI 리셋 등이 정상 동작하는지 확인한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "SvelteKit 프로젝트 초기 세팅",
+        "description": "SvelteKit, Tailwind CSS(선택), Chart.js/LayerCake 등 의존성 설치 및 기본 프로젝트 구조를 세팅한다.",
+        "priority": "medium",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 7.1,
+            "title": "프로젝트 초기 세팅 결과 확인",
+            "description": "의존성 설치, 기본 구조, 개발 서버 실행 등 정상 동작을 확인한다.",
+            "priority": "medium",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "상태 관리 구조 설계",
+        "description": "Svelte 내장 스토어(Stores)를 활용하여 상태 관리 구조를 설계 및 구현한다.",
+        "priority": "medium",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 8.1,
+            "title": "상태 관리 구조 설계 결과 확인",
+            "description": "스토어 연동, 상태 변화 반영 등 정상 동작을 확인한다.",
+            "priority": "medium",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "정적 페이지 사전 렌더링 및 배포 설정",
+        "description": "메인/소개 페이지의 사전 렌더링 설정 및 Vercel, Netlify, Cloudflare Pages 등 배포 환경을 구성한다.",
+        "priority": "medium",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 9.1,
+            "title": "사전 렌더링/배포 결과 확인",
+            "description": "실제 배포 환경에서 정적 페이지가 정상적으로 제공되는지 확인한다.",
+            "priority": "medium",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "클라이언트 사이드 데이터 처리 및 보안 정책 적용",
+        "description": "모든 데이터(응답, 결과 등)는 클라이언트에서만 처리하며, 서버 저장을 금지하고 개인정보 보호 정책을 명시한다.",
+        "priority": "high",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 10.1,
+            "title": "데이터 처리/보안 정책 적용 결과 확인",
+            "description": "데이터가 서버에 저장되지 않는지, 개인정보 보호 정책이 명확히 안내되는지 확인한다.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "결과 저장/공유 기능 설계(추후)",
+        "description": "SvelteKit 서버 기능(Form Actions, Server Routes)과 Vercel KV, Supabase 등 DB 연동을 고려한 결과 저장/공유 기능을 설계한다.",
+        "priority": "low",
+        "status": "pending",
+        "subtasks": [
+          {
+            "id": 11.1,
+            "title": "결과 저장/공유 기능 설계 결과 확인",
+            "description": "설계된 기능이 요구사항에 부합하는지 확인한다.",
+            "priority": "low",
+            "status": "pending"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created": "2025-06-15T14:47:50.516Z",
+      "updated": "2025-06-15T15:45:37.017Z",
+      "description": "Tasks for master context"
+    }
+  }
+}

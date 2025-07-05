@@ -1,0 +1,19 @@
+# Task ID: 4
+# Title: 동적 프롬프트 생성 및 분석 지원
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: 사용자 응답에 따라 동적으로 프롬프트(질문/설명 등)를 생성하고, 분석 로직 및 결과 해석 텍스트를 제공한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 4.1. 동적 프롬프트/분석 기능 결과 확인 [pending]
+### Dependencies: None
+### Description: 동적 프롬프트 생성, 해석 텍스트 제공이 정상 동작하는지 확인한다.
+### Details:
+
+

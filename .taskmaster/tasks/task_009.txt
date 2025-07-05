@@ -1,0 +1,19 @@
+# Task ID: 9
+# Title: 정적 페이지 사전 렌더링 및 배포 설정
+# Status: pending
+# Dependencies: None
+# Priority: medium
+# Description: 메인/소개 페이지의 사전 렌더링 설정 및 Vercel, Netlify, Cloudflare Pages 등 배포 환경을 구성한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 9.1. 사전 렌더링/배포 결과 확인 [pending]
+### Dependencies: None
+### Description: 실제 배포 환경에서 정적 페이지가 정상적으로 제공되는지 확인한다.
+### Details:
+
+

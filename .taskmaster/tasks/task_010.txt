@@ -1,0 +1,19 @@
+# Task ID: 10
+# Title: 클라이언트 사이드 데이터 처리 및 보안 정책 적용
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: 모든 데이터(응답, 결과 등)는 클라이언트에서만 처리하며, 서버 저장을 금지하고 개인정보 보호 정책을 명시한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 10.1. 데이터 처리/보안 정책 적용 결과 확인 [pending]
+### Dependencies: None
+### Description: 데이터가 서버에 저장되지 않는지, 개인정보 보호 정책이 명확히 안내되는지 확인한다.
+### Details:
+
+

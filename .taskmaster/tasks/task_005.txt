@@ -1,0 +1,19 @@
+# Task ID: 5
+# Title: 반응형 디자인 적용
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: 모바일/데스크탑 등 다양한 해상도에 대응하는 반응형 디자인을 적용한다. Svelte의 스코프 CSS 및 필요시 Tailwind CSS를 활용한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 5.1. 반응형 디자인 적용 결과 확인 [pending]
+### Dependencies: None
+### Description: 다양한 해상도(모바일, 태블릿, 데스크탑)에서 UI가 정상적으로 보이는지 확인한다.
+### Details:
+
+

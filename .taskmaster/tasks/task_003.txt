@@ -1,0 +1,19 @@
+# Task ID: 3
+# Title: 결과 표시 페이지 구현
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: 검사 결과를 시각적으로 보여주는 결과 페이지를 구현한다. Chart.js 또는 LayerCake를 활용한 차트 시각화 포함.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 3.1. 결과 표시 페이지 구현 결과 확인 [pending]
+### Dependencies: None
+### Description: 차트 시각화, 결과 데이터 표시, 반응형 동작 등을 확인한다.
+### Details:
+
+

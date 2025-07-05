@@ -1,0 +1,19 @@
+# Task ID: 1
+# Title: 메인/소개 페이지 구현
+# Status: done
+# Dependencies: None
+# Priority: high
+# Description: SvelteKit의 사전 렌더링(Prerendering) 기능을 활용하여 정적 메인/소개 페이지를 구현한다. 서비스 소개와 사용법 안내를 포함한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 1.1. 메인/소개 페이지 구현 결과 확인 [done]
+### Dependencies: None
+### Description: 구현된 메인/소개 페이지가 요구사항(정적 렌더링, 소개/안내 포함 등)에 맞는지 직접 브라우저에서 확인 및 피드백한다.
+### Details:
+
+

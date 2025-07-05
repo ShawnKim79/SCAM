@@ -1,0 +1,19 @@
+# Task ID: 2
+# Title: 검사 진행 페이지 구현
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: 사용자 입력 기반의 자기진단 플로우 UI/UX를 SvelteKit 클라이언트 사이드 렌더링(CSR)으로 구현한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 2.1. 검사 진행 페이지 구현 결과 확인 [pending]
+### Dependencies: None
+### Description: 실제 사용자 플로우, 입력, 상태 관리 등이 정상 동작하는지 시나리오 테스트를 진행한다.
+### Details:
+
+

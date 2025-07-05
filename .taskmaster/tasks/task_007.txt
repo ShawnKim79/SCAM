@@ -1,0 +1,19 @@
+# Task ID: 7
+# Title: SvelteKit 프로젝트 초기 세팅
+# Status: pending
+# Dependencies: None
+# Priority: medium
+# Description: SvelteKit, Tailwind CSS(선택), Chart.js/LayerCake 등 의존성 설치 및 기본 프로젝트 구조를 세팅한다.
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 7.1. 프로젝트 초기 세팅 결과 확인 [pending]
+### Dependencies: None
+### Description: 의존성 설치, 기본 구조, 개발 서버 실행 등 정상 동작을 확인한다.
+### Details:
+
+
