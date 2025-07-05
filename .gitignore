@@ -1,0 +1,13 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+
+#ETC
+.cursor/*
+.cursor/mcp.json
+.env
+.roo/*
+.roomodes
+.windsurfrules
+
